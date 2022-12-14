@@ -1,0 +1,6 @@
+__pycache__
+*.png
+*.pdf
+*.csv
+imputer_output/
+mushrooms.names
