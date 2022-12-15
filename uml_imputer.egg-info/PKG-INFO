@@ -1,3 +1,29 @@
+Metadata-Version: 2.1
+Name: uml-imputer
+Version: 0.0.1
+Summary: Python machine learning API to impute missing SNPs
+Home-page: https://github.com/btmartin721/uml_imputer
+Author: Bradley T. Martin and Tyler K. Chafin
+Author-email: evobio721@gmail.com
+Maintainer: Bradley T. Martin
+Maintainer-email: evobio721@gmail.com
+License: GNU General Public License v3 (GPLv3)
+Project-URL: Bug Tracker, https://github.com/btmartin721/uml_imputer/issues
+Keywords: python,api,impute,imputation,imputer,machine learning,deep learning,neural network,unsupervised,ubp,autoencoder,nlpca
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: English
+Requires-Python: >=3.8.0,<3.9
+Description-Content-Type: text/markdown
+Provides-Extra: intel
+Provides-Extra: dev
+Provides-Extra: arm
+License-File: LICENSE
+
 
 # UML Imputer
 

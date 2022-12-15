@@ -2,5 +2,7 @@ __pycache__
 *.png
 *.pdf
 *.csv
+.vscode/
 imputer_output/
 mushrooms.names
+.venv/
